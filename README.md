@@ -1,1 +1,1 @@
-# -SDSS17-Stellar-Classification
+# SDSS17-Stellar-Classification
